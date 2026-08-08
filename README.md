@@ -38,15 +38,24 @@ should not require five disconnected apps.
 
 ## Screenshots
 
-_Screenshots are added below as the beta build stabilizes._
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="assets/screenshots/planner-day.png" alt="Daily plan" width="240" /><br/>
+      <sub><b>Daily plan</b> — the day's study blocks</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="assets/screenshots/auto-fill.png" alt="Auto-Fill Week" width="240" /><br/>
+      <sub><b>Auto-Fill Week</b> — generate a week from a template</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="assets/screenshots/week-analytics.png" alt="Weekly analytics" width="240" /><br/>
+      <sub><b>Weekly analytics</b> — planned vs. completed &amp; study debt</sub>
+    </td>
+  </tr>
+</table>
 
-<!--
-Drop 4–6 PNGs into assets/screenshots/ and reference them here, e.g.:
-
-| Today | Planner | Reports |
-|:---:|:---:|:---:|
-| ![Today](assets/screenshots/today.png) | ![Planner](assets/screenshots/planner.png) | ![Reports](assets/screenshots/reports.png) |
--->
+<sub>More screens (Today, Projects, Reports, GPA) are added as the beta build stabilizes.</sub>
 
 ## Features
 
@@ -57,8 +66,8 @@ Drop 4–6 PNGs into assets/screenshots/ and reference them here, e.g.:
 
 ### Planning & Tasks
 - Weekly planning with an auto-plan assistant
-- Task management with priorities, reminders, and recurrence
-- Calendar tools and scheduled reminders
+- Task management with priorities and due dates
+- Calendar tools with scheduled reminders and notifications
 
 ### Projects
 - Projects and subjects with folders and ordering
@@ -102,8 +111,8 @@ prioritization, and quality bar are mine.
 
 ## Current Status
 
-Active development, preparing for private beta testing (iOS TestFlight and a
-signed Android build).
+Active development, preparing for private beta testing. A signed Android build
+is ready; iOS is being prepared for TestFlight.
 
 ## License
 
