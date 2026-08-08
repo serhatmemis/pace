@@ -40,22 +40,26 @@ should not require five disconnected apps.
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <img src="assets/screenshots/planner-day.png" alt="Daily plan" width="240" /><br/>
-      <sub><b>Daily plan</b> — the day's study blocks</sub>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/today.jpg" alt="Today" width="240" /><br/>
+      <sub><b>Today</b> — daily snapshot, continue-where-you-left-off, and Pace Score</sub>
     </td>
-    <td width="33%" align="center">
-      <img src="assets/screenshots/auto-fill.png" alt="Auto-Fill Week" width="240" /><br/>
-      <sub><b>Auto-Fill Week</b> — generate a week from a template</sub>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/reports.jpg" alt="Reports" width="240" /><br/>
+      <sub><b>Reports</b> — lifetime study analytics and insights</sub>
     </td>
-    <td width="33%" align="center">
-      <img src="assets/screenshots/week-analytics.png" alt="Weekly analytics" width="240" /><br/>
-      <sub><b>Weekly analytics</b> — planned vs. completed &amp; study debt</sub>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/trends.jpg" alt="Trends" width="240" /><br/>
+      <sub><b>Trends</b> — duration by month, with project and focus breakdowns</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/timers.jpg" alt="Timers" width="240" /><br/>
+      <sub><b>Timers</b> — Pomodoro, Deep Work, and custom focus methods</sub>
     </td>
   </tr>
 </table>
-
-<sub>More screens (Today, Projects, Reports, GPA) are added as the beta build stabilizes.</sub>
 
 ## Features
 
